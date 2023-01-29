@@ -1,0 +1,15 @@
+C:\Users\p2tha\source\repos\calcul\bin\Debug\net6.0\calcul.exe
+C:\Users\p2tha\source\repos\calcul\bin\Debug\net6.0\calcul.deps.json
+C:\Users\p2tha\source\repos\calcul\bin\Debug\net6.0\calcul.runtimeconfig.json
+C:\Users\p2tha\source\repos\calcul\bin\Debug\net6.0\calcul.dll
+C:\Users\p2tha\source\repos\calcul\bin\Debug\net6.0\calcul.pdb
+C:\Users\p2tha\source\repos\calcul\obj\Debug\net6.0\calcul.csproj.AssemblyReference.cache
+C:\Users\p2tha\source\repos\calcul\obj\Debug\net6.0\calcul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p2tha\source\repos\calcul\obj\Debug\net6.0\calcul.AssemblyInfoInputs.cache
+C:\Users\p2tha\source\repos\calcul\obj\Debug\net6.0\calcul.AssemblyInfo.cs
+C:\Users\p2tha\source\repos\calcul\obj\Debug\net6.0\calcul.csproj.CoreCompileInputs.cache
+C:\Users\p2tha\source\repos\calcul\obj\Debug\net6.0\calcul.dll
+C:\Users\p2tha\source\repos\calcul\obj\Debug\net6.0\refint\calcul.dll
+C:\Users\p2tha\source\repos\calcul\obj\Debug\net6.0\calcul.pdb
+C:\Users\p2tha\source\repos\calcul\obj\Debug\net6.0\calcul.genruntimeconfig.cache
+C:\Users\p2tha\source\repos\calcul\obj\Debug\net6.0\ref\calcul.dll
